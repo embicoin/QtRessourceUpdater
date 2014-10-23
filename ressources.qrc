@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="icon">icon.svg</file>
+        <file alias="magnifier">magnifier_black.svg</file>
+    </qresource>
+</RCC>
