@@ -1,0 +1,4 @@
+QtRessourceUpdater
+==================
+
+Update Qt Ressources
